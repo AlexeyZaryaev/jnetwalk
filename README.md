@@ -6,7 +6,7 @@ Alexey Zaryaev
 
 JNetWalk is a puzzle Java/Swing game based on C code at https://github.com/blynn/netwalk,  in which the player must connect every terminal to the main server. 
 
-![screenshots/game.png](screenshots/game.png)
+![screenshots/game.gif](screenshots/game.gif)
 
 ###### USAGE
 
